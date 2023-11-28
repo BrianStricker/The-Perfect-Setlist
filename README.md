@@ -76,12 +76,12 @@ Before you begin, ensure you have met the following requirements:
 •	You have installed Git, which is necessary to clone the repository. If you don't have Git installed, you can download it from the [official Git website.](https://git-scm.com/downloads)
 Follow these steps to run the project on your local machine:
 1.	Clone the repository
-Navigate to the directory where you want the cloned repository to be placed by using the cd command in your terminal followed by the path of the directory.
+2. Navigate to the directory where you want the cloned repository to be placed by using the cd command in your terminal followed by the path of the directory.
 Then you can clone this repository by running the following command in your terminal:
-**#git clone https://github.com/slee502/ The_Perfect_Setlist.git**
-2.	**Navigate to the cloned directory**
-Change your current directory to the cloned repository's directory: The_Perfect_Setlist
-3.	**Set up a virtual environment**
+#git clone  https://github.com/BrianStricker/The-Perfect-Setlist**
+3.	**Navigate to the cloned directory**
+Change your current directory to the cloned repository's directory: The-Perfect-Setlist
+4.	**Set up a virtual environment**
 It's recommended to create a virtual environment to keep the project's dependencies isolated from your system's Python environment. You can create a virtual environment using the following command:
 
 On Windows:
