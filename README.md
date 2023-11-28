@@ -78,7 +78,7 @@ Follow these steps to run the project on your local machine:
 1.	Clone the repository
 2. Navigate to the directory where you want the cloned repository to be placed by using the cd command in your terminal followed by the path of the directory.
 Then you can clone this repository by running the following command in your terminal:
-#git clone  https://github.com/BrianStricker/The-Perfect-Setlist**
+#git clone  https://github.com/BrianStricker/The-Perfect-Setlist
 3.	**Navigate to the cloned directory**
 Change your current directory to the cloned repository's directory: The-Perfect-Setlist
 4.	**Set up a virtual environment**
@@ -108,7 +108,7 @@ Install the required packages by running the following command:
 pip install -r requirements.txt
 You're now ready to run the project!
 
-6.	**Run the The_Perfect_Setlist.ipynb file:**
+6. Run **The Perfect Setlist I.ipynb** file and then **II** and **III**.
 
 Again, if you have Jupyter Notebook installed, enter jupyter notebook and open the .ipynb file. If you would like to install it the link with instructions is: 
 
