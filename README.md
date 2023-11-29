@@ -24,7 +24,7 @@ Here are a few of the attributes we will be considering to see how they correlat
 
 These, and all other terms and definitions can be found in the **Data Dictionary** that I’ve compiled for the reader. It will explain further what each data variable means and how it is measured or applied for results. It will also define music terminology used throughout the project.
 
-CSVs being used were originally downloaded from the following sites:
+CSVs *(def. at bottom)* being used were originally downloaded from the following sites:
 
 https://www.kaggle.com/datasets/theoverman/the-spotify-hit-predictor-dataset
 
@@ -49,7 +49,7 @@ The Perfect Setlist II.ipynb (*carryover of cleaning from first notebook*)
 
 The Perfect Setlist III.ipynb (*data analysis with visuals and final conclusion*)
 
-If you already have a preferred IDE, simply clone this repo and open the above notebooks. If you have Anaconda installed, simply use your base Conda environment.
+If you already have a preferred IDE *(def. at bottom)*, simply clone this repo and open the above notebooks. If you have Anaconda installed, simply use your base Conda environment.
 
 **Installation**
 
@@ -166,4 +166,6 @@ Libraries are listed in the ‘requirements.txt’ folder. This project uses:
 
 • plotly.express as px
 
+***CSV stands for comma-separated values. It is a standard way to store structured data in a plain text format. A CSV file contains a list of values that are separated by commas. Each line in a CSV file represents a row in a table, and each value in a line represents a column in a table.***
 
+***An IDE, or Integrated Development Environment, is a software application that provides comprehensive facilities for software development, such as editing source code, building executables, and debugging. IDEs are especially useful for data analysis, as they often provide features that make it easier to import data, view large tables and variables, and create visualizations.***
